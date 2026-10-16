@@ -1,2 +1,2 @@
-# GHA2-Net-Dataset
-Dataset for GHA2-Net agricultural navigation paper
+# GHA2-Net
+GHA2-Net agricultural navigation paper
